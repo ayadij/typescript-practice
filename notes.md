@@ -30,4 +30,12 @@ import namespace syntax:
 ```///<reference path="module1.ts" />```
 
 
-Re
+ALIAS
+use import keyword
+ex:
+```import someName = myNameSpace.displayData;
+console.log(someName());```
+
+Use SystemJS loader to load modules
+
+
