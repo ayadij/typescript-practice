@@ -4,7 +4,7 @@ class Motorcycle {
     this.name = name;
   }
   rev(){
-    console.log(this.name + "brap braaap");
+    console.log(this.name + " brap braaap");
   }
 }
 
@@ -14,9 +14,13 @@ gixxer.rev();
 
 class SportBike extends Motorcycle {
   rev(){
-    console.log("zoooom");
+    console.log(" zoooom");
+    super.rev();
   }
 }  
 
-var yami = new SportBike("Yami"));
+var yami = new SportBike("Yami");
 yami.rev();
+
+
+
