@@ -7,7 +7,7 @@ interface MotorcycleInterface{
 
 const motorcycle: MotorcycleInterface = {
     make: "ducati",
-    model?: "monster",
+    model: "monster",
     cc: 750,
     describeBike(make:string,cc:number){
         console.log(`this ${this.make} is ${cc}cc`);
