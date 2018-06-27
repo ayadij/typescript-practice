@@ -15,3 +15,16 @@ Private Access Modifier: the property(or method) of the class can be accessed on
 you can override a parent class method from within the child class
 
 can you instantiate an abstract class? no. but you can extend from it. 
+
+Namespaces: help you organize your code into the logical units and avoid possible collisions with 3rd party code
+
+You must EXPORT properties (like variables, constants and methods/functions) of the namespace so that they are available
+ex:
+    ```
+    export function displayData() {
+        console.log("hello");
+    }
+    ```
+
+import namespace syntax:
+```///<reference path="module1.ts" />```
