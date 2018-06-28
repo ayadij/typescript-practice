@@ -59,24 +59,3 @@ create a new component .tsx not .js
 
 
 
-
-
-
-
-
-
-
-
-
-besides brayden 
-
-
-
-
-James [35 minutes ago]
-Aya what was it that you think got you in the door? I was definitely very selective in the beginning but now I am just fighting to keep my house…lol so I am a lot less selective.  Front-end has definitely become more and more fun for me.   I think it’s everything I like about marketing (UI/UX design), mixed with things I like about development (React, JavaScript).
-Javascript
-
-
-
-
