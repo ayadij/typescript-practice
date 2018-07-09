@@ -56,6 +56,16 @@ create a new component .tsx not .js
 
 
 
+---------- material-ui
+Material-UI is a set of React components that implement Google's Material Design specification.
 
+live examples: https://material-ui.com/
+
+change log: https://github.com/mui-org/material-ui/releases
+
+
+Required Knowledge: We recommend that you get to know React before diving into material-ui. Material-UI is a set of React components, so understanding how React fits into web development is important.
+
+Installation: Material-UI is available as an npm package.
 
 
