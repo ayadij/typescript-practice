@@ -3,6 +3,7 @@
 How to define a class:
 ```class Run {}```
 
+
 ---------  many access modifiers?
 - public
 - protected
@@ -37,6 +38,7 @@ ex:
 Use SystemJS loader to load modules
 
 
+
 --------- typescript react app
 
 configure a react app with typescript:
@@ -44,6 +46,7 @@ configure a react app with typescript:
 ```$ create-react-app react-typescript --scripts-version=react-scripts-ts```
 go to app.tsx
 create a new component .tsx not .js
+
 
 
 
@@ -56,6 +59,7 @@ create a new component .tsx not .js
 
 
 
+
 ---------- material-ui
 Material-UI is a set of React components that implement Google's Material Design specification.
 
@@ -63,9 +67,8 @@ live examples: https://material-ui.com/
 
 change log: https://github.com/mui-org/material-ui/releases
 
+npm package
 
 Required Knowledge: We recommend that you get to know React before diving into material-ui. Material-UI is a set of React components, so understanding how React fits into web development is important.
-
-Installation: Material-UI is available as an npm package.
 
 
